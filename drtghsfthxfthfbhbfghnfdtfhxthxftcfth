@@ -86,6 +86,6 @@ return {
     4882086761,
     7822361386,
     8988820294,
-    12345,
+    user,
     -- add more userids here
 }
